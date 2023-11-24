@@ -1,0 +1,12 @@
+Aereo;1;1;1;1
+Aereo;1;1;1;1
+Aereo;eedefe23e;Toronto;New York;Jhon
+Terrestre;233223;Bogota;Cali;Pedro
+Aereo;342334;Bogota;Cali;Alfredo
+Aereo;4qweq;Bogota;Cali;Jose
+Terrestre;322223;Bogota;Cali;Alfredo
+Aereo;333566;Bogota;New York;Jhon
+Aereo;2;2;2;2
+Aereo;2;2;2;2
+Aereo;5;5;5;5
+Terrestre;6;6;6;6
